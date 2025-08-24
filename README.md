@@ -15,7 +15,9 @@ An interactive digital drawing project inspired by the classic Etch-a-Sketch toy
 
 ## 🚀 Demo
 
-![Etch-a-Sketch Demo](./assets/demo.gif)
+[![Etch-a-Sketch Demo](./assets/demo.gif)](https://github.com/giovannihurtado/Etch-a-Sketch.git)
+
+**👆 Click on the image to open the live demo **
 
 ## 🛠️ Technologies Used
 
@@ -26,8 +28,9 @@ An interactive digital drawing project inspired by the classic Etch-a-Sketch toy
 ## 📁 Project Structure
 
 ```
-etch-a-sketch/
-│
+project etch-a-sketch/
+├── assets/
+│   └── demo.gif
 ├── index.html
 ├── style.css
 ├── script.js
